@@ -1,0 +1,8 @@
+pages_build_output_dir = '/static'
+
+[[d1_databases]]
+binding = "todo_d1_db"
+database_name = "todo_d1_db"
+database_id = "todo_d1_db"
+migrations_table = "d1_migrations"
+migrations_dir = "migrations"
